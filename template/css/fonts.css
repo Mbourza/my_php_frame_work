@@ -1,0 +1,24 @@
+@font-face {
+    font-family: rob;
+    src: url(../fonts/rob.ttf);
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: req;
+    src: url(../fonts/req.ttf);
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: rik;
+    src: url(../fonts/rik.ttf);
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: op;
+    src: url(../fonts/op.ttf);
+    font-weight: 200;
+}
+
